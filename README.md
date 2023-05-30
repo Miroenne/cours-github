@@ -1,6 +1,6 @@
 # Bienvenue sur mon repository "cours-github"
 
-Vers. Avis
+Vers. commentaires
 
 Ce repository a été créer pour :
 
